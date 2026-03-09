@@ -1,0 +1,8 @@
+{
+  "name": "MILELE LAW FIRM",
+  "description": "A premium, professional legal website for Milele Law Firm, Nairobi. Featuring practice areas, corporate identity, and a Gemini-powered legal inquiry assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
